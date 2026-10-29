@@ -1,0 +1,26 @@
+# Python 3.10 packages corresponding to the course Conda environment.
+# Install additional course updates from the repository's additional-requirements.txt.
+
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+jupyterlab
+sqlalchemy
+pytimetk
+openai
+langchain
+langchain-openai
+langchain-ollama
+langchain-experimental
+langchain-community
+langgraph
+streamlit>=1.55.0
+pypdf
+PyYAML
+chromadb
+watchdog
+quarto
