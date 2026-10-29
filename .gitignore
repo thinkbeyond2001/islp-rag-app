@@ -1,0 +1,8 @@
+credentials.yml
+data/
+*.pkl
+*.db
+__pycache__/
+.DS_Store
+challenges/*/data/
+challenges/*/pdf/
